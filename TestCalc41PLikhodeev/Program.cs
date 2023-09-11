@@ -114,7 +114,7 @@ namespace TestCalc41PLikhodeev
                     double a9 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Результат:" + Ctg(a9,a9));// здесь только одна входная переменная
                     break;
-            }
+            } 
             Console.ReadKey();
         }
     }
